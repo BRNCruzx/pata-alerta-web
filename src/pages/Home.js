@@ -19,7 +19,7 @@ export default function Home() {
     <div>
       {/* NAVBAR */}
       <nav className="navbar">
-        <a href="/" className="nav-logo">🐾 PataAlerta</a>
+        <a href="/" className="nav-logo">🐾 Patalerta</a>
         <ul className="nav-links">
           <li><a href="#features">Funcionalidades</a></li>
           <li><a href="#pricing">Preços</a></li>
@@ -49,7 +49,7 @@ export default function Home() {
         <div className="dashboard-preview fade-left">
           <div className="dash-header">
             <span style={{fontSize:'1.2rem'}}>🐾</span>
-            <div className="dash-logo">PataAlerta</div>
+            <div className="dash-logo">Patalerta</div>
           </div>
           <div className="dash-body">
             <div className="dash-sidebar">
@@ -179,11 +179,11 @@ export default function Home() {
       {/* FOOTER */}
       <footer>
         <div>
-          <div className="footer-logo">🐾 PataAlerta</div>
+          <div className="footer-logo">🐾 Patalerta</div>
           <p style={{marginTop:'6px'}}>Feito com ❤️ para quem ama seus pets</p>
         </div>
         <div style={{textAlign:'right'}}>
-          <p>© 2026 PataAlerta. Todos os direitos reservados.</p>
+          <p>© 2026 Patalerta. Todos os direitos reservados.</p>
           <p style={{marginTop:'4px'}}>contato@patalerta.com.br</p>
         </div>
       </footer>

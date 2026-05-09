@@ -30,7 +30,7 @@ export default function Register() {
   return (
     <div className="auth-page">
       <div className="auth-card">
-        <div className="auth-logo">🐾 PataAlerta</div>
+        <div className="auth-logo">🐾 Patalerta</div>
         <h2 className="auth-title">Criar conta</h2>
 
         {error && <div className="auth-error">{error}</div>}
